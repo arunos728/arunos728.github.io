@@ -12,7 +12,7 @@ I am interested in computer vision and machine learning, especially video unders
   **Heeseung Kwon**, Woohyun Shim, Minsu Cho, In **ICCV Workshop 2019** (Challenge winner as 2nd place of the 2nd Challenge on Comprehensive Video Understanding in the Wild)  
 - **[Video Understanding via Convolutional Temporal Pooling Network and Multimodal Feature Fusion](https://dl.acm.org/doi/10.1145/3265987.3265991)**,  
   **Heeseung Kwon**, Suha Kwak, Minsu Cho, In **MM Workshop 2019** (Challenge winner as 1st place of the 1st Challenge on Comprehensive Video Understanding in the Wild)  
-- **[First Person Action Recog-nition  via  Two-stream  ConvNet  with  Long-term  Fusion  Pooling](https://www.sciencedirect.com/science/article/pii/S0167865518303027)**,  
+- **[First Person Action Recognition  via  Two-stream  ConvNet  with  Long-term  Fusion  Pooling](https://www.sciencedirect.com/science/article/pii/S0167865518303027)**,  
   **Heeseung Kwon**, Yeonho Kim, Jin S. Lee, Minsu Cho, In **PRL 2018**  
 
 ## Education
