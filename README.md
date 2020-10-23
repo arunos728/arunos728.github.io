@@ -1,8 +1,19 @@
-I am a Ph.D.student majoring in computer vision at Postech computer vision lab, advised by prof.Minsu Cho.
+I am a Ph.D.student at Postech computer vision lab, advised by prof.Minsu Cho.
 I am interested in computer vision and machine learning, especially video understanding.
 
 ## Publication
-- 
+- **Learning Self-Similarity in Space and Time as a Generalized Motion for Action Recognition**,  
+  **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho (&#42; equal contribution), In **ICLR 2021**, *under review*
+- **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)**,  
+  Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho **(&#42; equal contribution)**, arXiv preprint 2020  
+- **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)**,  
+  **Heeseung Kwon**, Manjin Kim, Suha Kwak, Minsu Cho, In **ECCV 2020**  &#91;[Project page](https://cvlab.postech.ac.kr/research/MotionSqueeze/)&#93; &#91;[code](https://github.com/arunos728/MotionSqueeze)&#93;
+- **[Temporal U-Nets for Video Summarization with Scene and Action Recognition](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CoView/Kwon_Temporal_U-Nets_for_Video_Summarization_with_Scene_and_Action_Recognition_ICCVW_2019_paper.pdf)**,   
+  **Heeseung Kwon**, Woohyun Shim, Minsu Cho, In **ICCV Workshop 2019** (Challenge winner as 2nd place of the 2nd Challenge on Comprehensive Video Understanding in the Wild)  
+- **[Video Understanding via Convolutional Temporal Pooling Network and Multimodal Feature Fusion](https://dl.acm.org/doi/10.1145/3265987.3265991)**,  
+  **Heeseung Kwon**, Suha Kwak, Minsu Cho, In **MM Workshop 2019** (Challenge winner as 1st place of the 1st Challenge on Comprehensive Video Understanding in the Wild)  
+- **[First Person Action Recog-nition  via  Two-stream  ConvNet  with  Long-term  Fusion  Pooling](https://www.sciencedirect.com/science/article/pii/S0167865518303027)**,  
+  **Heeseung Kwon**, Yeonho Kim, Jin S. Lee, Minsu Cho, In **PRL 2018**  
 
 ## Education
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2012.09- Present)  
@@ -12,24 +23,14 @@ I am interested in computer vision and machine learning, especially video unders
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2008.03- 2012.08)  
 	\- B.S. in Electrical & Electronic Engineering  
 	
-## Experience
-- **Software Maestro 8<sup>th</sup>**, Ministry of Science and ICT, Korea (Aug. 2017 – Dec. 2017)    
-  Trainee completion: Built a system of detecting and reporting hidden cameras which is composed of app, detecting hardware and an announcement webpage. 
-- **[EF International Language Centres]( https://www.ef.co.uk/ilsd/schools/bristol/ )**, Bristol, United Kingdom (Jan. 2015 – Nov. 2015)    
-  Certificated of academic year abroad diploma  
-- **[Military Obligation – 5<sup>th</sup> Corps Headquarters]( http://www.army.mil.kr/webapp/user/indexMain.do?siteId=english )**, Pocheon, Korea (Jan. 2013 – Oct. 2014)  
-  Carried out the obligatory duty of national defense.  
+## Honors & Awards
+- The challenge winner at CoVieW'19 workshop and challenge, ICCV 2019  
+  \- **2nd place** at the Challenge on Comprehensive Video Understanding in the Wild
+- The challenge winner at CoVieW'18 workshop and challenge, ACM MM 2018  
+  \- **1st place** at the Challenge on Comprehensive Video Understanding in the Wild  
+  \- Awarded to **the best algorithm** on multi-task action and scene recognition 	 
   
 ## Patent
-- **Input and Output System of Text According to Position on Image and the Method Thereof**   
-  \- **Namyup Kim**, Dongwoo Kim, Jiyoung Yeon, Hongsun Yun , Korean Patent, *KR1018284400000*     
-  \- The purpose of the present invention is to provide a system that allows an user to edit and save text contents on a 3D image. To avoid interrupting by the contents on a 3D image, we make buttons in a pie shape on the bottom of 3D sphere which shows azimuthal angle. A user can open a content and go to a direction that user saved. Also, we program going from a button to a direction without turning upside down.  
+- **Method for temporal information encoding of the videosegment frame-wise features for video recognition**   
+  \- Yeongsuk Kim, **Namyup Kim** (Korean domestic; 1019369470000)  
   
-## Honors & Awards
-- **Academic Excellence Scholarship**, Soongsil University, Korea  
-  2<sup>nd</sup> *term*, 2011; 1<sup>st</sup> *term*, 2012; 2<sup>nd</sup> *term*, 2017  
-- **[The 1st Prize, The 14th Embedded Software Contest]( http://eswcontest.com/bbs/board.php?tbl=award&mode=&page=1&category=2016%B3%E2 )**,  LG corp., Korea (Dec. 2016)  
-  \- Team Name : 힘을내요, SSUper 파월  
-  \- An app stores user contents by pie shape on the bottom of a 3D image to avoid occlusion.  
-- **The 3rd Prize, Engineering Design Competition**, Soongsil University, Korea (Dec. 2016)  
-  \- Automatic attendance system using gyro sensor of a mobile phone.  
