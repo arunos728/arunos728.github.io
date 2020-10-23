@@ -3,7 +3,7 @@ I am interested in computer vision and machine learning, especially video unders
 
 ## Publication
 - **Learning Self-Similarity in Space and Time as a Generalized Motion for Action Recognition**,  
-  **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho (&#42; equal contribution), In **ICLR 2021**, *under review*
+  **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho **(&#42; equal contribution)**, In **ICLR 2021**, *under review*
 - **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)**,  
   Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho **(&#42; equal contribution)**, arXiv preprint 2020  
 - **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)**,  
