@@ -3,18 +3,19 @@ theme: jekyll-theme-minimal
 # minimal_mastakes_skin : "dark"
 title: "Heeseung Kwon"
 description: "Ph.D candidate in CiTE at POSTECH"
+              "asdfasdf"
 
 
-author:  
-  links:  
-  - label: "Pohang, South Korea"
-    icon: "fas fa-fw fa-map-marker-alt"
-  - label: "aruno@postech.ac.kr"
-    icon: "fas fa-fw fa-envelope-square"
-  - label: "Google Scholar"
-    icon: "fab fa-fw fa-google"
-    url: "https://scholar.google.com/citations?user=tVoF-4IAAAAJ&hl=ko"
-  - label: "Github"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/arunos728/"
+# author:  
+#   links:  
+#   - label: "Pohang, South Korea"
+#     icon: "fas fa-fw fa-map-marker-alt"
+#   - label: "aruno@postech.ac.kr"
+#     icon: "fas fa-fw fa-envelope-square"
+#   - label: "Google Scholar"
+#     icon: "fab fa-fw fa-google"
+#     url: "https://scholar.google.com/citations?user=tVoF-4IAAAAJ&hl=ko"
+#   - label: "Github"
+#     icon: "fab fa-fw fa-github"
+#     url: "https://github.com/arunos728/"
   
