@@ -31,7 +31,7 @@ I am interested in computer vision and machine learning, especially video unders
   \- Awarded to **the best algorithm** on multi-task action and scene recognition 	 
   
 ## Patent
-- **Method for temporal information encoding of the videosegment frame-wise features for video recognition**   
+- Method for temporal information encoding of the videosegment frame-wise features for video recognition   
   \- Yeongsuk Kim, **Heeseung Kwon** (Korean domestic; 1019369470000)  
   
 ## Language skills  
