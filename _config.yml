@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 # theme: "minimal-mistakes-jekyll"
 # minimal_mastakes_skin : "dark"
+logo: "fas fa-fw fa-map-marker-alt"
 title: "Heeseung Kwon"
 description: "Ph.D candidate in CiTE at POSTECH \\ asadfsadf"
 
