@@ -32,5 +32,5 @@ I am interested in computer vision and machine learning, especially video unders
   
 ## Patent
 - **Method for temporal information encoding of the videosegment frame-wise features for video recognition**   
-  \- Yeongsuk Kim, **Namyup Kim** (Korean domestic; 1019369470000)  
+  \- Yeongsuk Kim, **Heeseung Kwon** (Korean domestic; 1019369470000)  
   
