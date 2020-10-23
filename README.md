@@ -1,4 +1,4 @@
-I am a Ph.D.student at Postech computer vision lab, advised by prof.Minsu Cho.
+I am a Ph.D student at [POSTECH](http://postech.ac.kr/eng/) computer vision lab, advised by prof.Minsu Cho.
 I am interested in computer vision and machine learning, especially video understanding.
 
 ## Publication
