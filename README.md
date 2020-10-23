@@ -18,7 +18,7 @@ I am interested in computer vision and machine learning, especially video unders
 ## Education
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2012.09- Present)  
   \- Integrated M.S./Ph.D. student in [Creative IT Engineering](https://cite.postech.ac.kr/)  
-  \- Advisor: Prof. Minsu Cho
+  \- Advisor: Prof. Minsu Cho  
   \- Co-Advisor: Prof. Suha Kwak
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2008.03- 2012.08)  
 	\- B.S. in Electrical & Electronic Engineering  
