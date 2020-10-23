@@ -34,3 +34,5 @@ I am interested in computer vision and machine learning, especially video unders
 - **Method for temporal information encoding of the videosegment frame-wise features for video recognition**   
   \- Yeongsuk Kim, **Heeseung Kwon** (Korean domestic; 1019369470000)  
   
+## Language skills  
+- Korean(native), English(advanced)
