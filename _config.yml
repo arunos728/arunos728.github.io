@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: "Heeseung Kwon"
 description: "Ph.D candidate in CiTE at POSTECH"
+
+links:  
+- label: "Pohang, South Korea"
+  icon: "fas fa-fw fa-map-marker-alt"
+- label: "aruno@postech.ac.kr"
+  icon: "fas fa-fw fa-envelope-square"
+- label: "Google Scholar"
+  icon: "fab fa-fw fa-google"
+  url: "https://scholar.google.com/citations?user=tVoF-4IAAAAJ&hl=ko"
+- label: "Github"
+  icon: "fab fa-fw fa-github"
+  url: "https://github.com/arunos728/"
+  
