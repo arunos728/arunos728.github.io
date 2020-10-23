@@ -1,4 +1,4 @@
-I am a Ph.D student at [POSTECH](http://postech.ac.kr/eng/) computer vision lab, advised by prof.Minsu Cho.
+I am a Ph.D student at [POSTECH](http://postech.ac.kr/eng/) computer vision lab, advised by prof.[Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/)
 I am interested in computer vision and machine learning, especially video understanding.
 
 ## Publication
@@ -18,8 +18,8 @@ I am interested in computer vision and machine learning, especially video unders
 ## Education
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2012.09- Present)  
   \- Integrated M.S./Ph.D. student in [Creative IT Engineering](https://cite.postech.ac.kr/)  
-  \- Advisor: Prof. Minsu Cho  
-  \- Co-Advisor: Prof. Suha Kwak
+  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)  
+  \- Co-Advisor: Prof. [Suha Kwak](https://cvlab.postech.ac.kr/~suhakwak/)
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2008.03- 2012.08)  
 	\- B.S. in Electrical & Electronic Engineering  
 	
