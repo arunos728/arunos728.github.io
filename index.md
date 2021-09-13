@@ -1,5 +1,5 @@
 I am a Post-doctoral researcher in the [THOTH](https://team.inria.fr/thoth/) research team, based at the [Inria Grenoble-Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes) under the supervision of [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/).
-Before, I was a Ph.D student at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php), advised by prof.[Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/)
+Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php), advised by prof.[Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/)
 My primary research interest is video understanding, especially video representation learning and its applications.
 
 ## Publication
