@@ -2,7 +2,7 @@ title: Heeseung Kwon
 description: Post-doctoral researcher, INRIA Grenoble.
 show_downloads: false
 google_analytics: UA-108144808-1
-theme: jekyll-theme-minimalist
+# theme: jekyll-theme-minimalist
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
