@@ -8,8 +8,8 @@ My primary research interest is video understanding, especially video representa
  - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)**,   
    Dahyun Kang, **Heeseung Kwon**, Juhong Min, Minsu Cho, In *ICCV 2021* 
    &#91;[Project page](http://cvlab.postech.ac.kr/research/RENet/)&#93; &#91;[code](https://github.com/dahyun-kang/renet)&#93;   
- - **[Learning Self-Similarity in Space and Time as Generalized Motion for Action Recognition](https://arxiv.org/abs/2102.07092)**,   
-   **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2021*  &#91;[Project page](https://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;code&#93;
+ - **[Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition](https://arxiv.org/abs/2102.07092)**,   
+   **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2021*  &#91;[Project page](https://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;[code](https://github.com/arunos728/SELFY)&#93;
 - **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)**,  
   Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho *(&#42; equal contribution)*, *CVPR Workshop 2021*  
 - **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)**,  
