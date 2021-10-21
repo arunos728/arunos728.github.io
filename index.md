@@ -11,7 +11,7 @@ My primary research interest is video understanding, especially video representa
  - **[Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition](https://arxiv.org/abs/2102.07092)**,   
    **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2021*  &#91;[Project page](https://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;[code](https://github.com/arunos728/SELFY)&#93;
 - **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)**,  
-  Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho *(&#42; equal contribution)*, *CVPR Workshop 2021*  
+  Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho *(&#42; equal contribution)*, *CVPR Workshop 2021*  &#91;[code](https://github.com/mks0601/IntegralAction_RELEASE)&#93;
 - **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)**,  
   **Heeseung Kwon**, Manjin Kim, Suha Kwak, Minsu Cho, In *ECCV 2020*  &#91;[Project page](https://cvlab.postech.ac.kr/research/MotionSqueeze/)&#93; &#91;[code](https://github.com/arunos728/MotionSqueeze)&#93;
 - **[Temporal U-Nets for Video Summarization with Scene and Action Recognition](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CoView/Kwon_Temporal_U-Nets_for_Video_Summarization_with_Scene_and_Action_Recognition_ICCVW_2019_paper.pdf)**,   
