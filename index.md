@@ -3,23 +3,21 @@ Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](http
 My primary research interest is video understanding, especially video representation learning and its applications.
 
 ## Publication
- - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)**,  
+ - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93;  
    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Chungyu Wang, Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *NeurIPS 2021*
-   &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93; 
- - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)**,   
-   Dahyun Kang, **Heeseung Kwon**, Juhong Min, Minsu Cho, In *ICCV 2021* 
-   &#91;[Project page](http://cvlab.postech.ac.kr/research/RENet/)&#93; &#91;[code](https://github.com/dahyun-kang/renet)&#93;   
- - **[Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition](https://arxiv.org/abs/2102.07092)**,   
-   **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2021*  &#91;[Project page](https://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;[code](https://github.com/arunos728/SELFY)&#93;
-- **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)**,  
-  Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho *(&#42; equal contribution)*, *CVPR Workshop 2021*  &#91;[code](https://github.com/mks0601/IntegralAction_RELEASE)&#93;
-- **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)**,  
-  **Heeseung Kwon**, Manjin Kim, Suha Kwak, Minsu Cho, In *ECCV 2020*  &#91;[Project page](https://cvlab.postech.ac.kr/research/MotionSqueeze/)&#93; &#91;[code](https://github.com/arunos728/MotionSqueeze)&#93;
-- **[Temporal U-Nets for Video Summarization with Scene and Action Recognition](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CoView/Kwon_Temporal_U-Nets_for_Video_Summarization_with_Scene_and_Action_Recognition_ICCVW_2019_paper.pdf)**,   
+ - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RENet/)&#93; &#91;[code](https://github.com/dahyun-kang/renet)&#93;   
+   Dahyun Kang, **Heeseung Kwon**, Juhong Min, Minsu Cho, In *ICCV 2021*   
+ - **[Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition](https://arxiv.org/abs/2102.07092)** &#91;[Project page](https://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;[code](https://github.com/arunos728/SELFY)&#93;   
+   **Heeseung Kwon(&#42;)**, Manjin Kim(&#42;), Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2021*  
+- **[IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos](https://arxiv.org/abs/2007.06317)** &#91;[code](https://github.com/mks0601/IntegralAction_RELEASE)&#93;  
+  Gyeongsik Moon(&#42;), **Heeseung Kwon(&#42;)**, Kyoung Mu Lee, Minsu Cho *(&#42; equal contribution)*, *CVPR Workshop 2021*  
+- **[MotionSqueeze: Neural Motion Feature Learning for Video Understanding](https://arxiv.org/abs/2007.09933)** &#91;[Project page](https://cvlab.postech.ac.kr/research/MotionSqueeze/)&#93; &#91;[code](https://github.com/arunos728/MotionSqueeze)&#93;  
+  **Heeseung Kwon**, Manjin Kim, Suha Kwak, Minsu Cho, In *ECCV 2020*  
+- **[Temporal U-Nets for Video Summarization with Scene and Action Recognition](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CoView/Kwon_Temporal_U-Nets_for_Video_Summarization_with_Scene_and_Action_Recognition_ICCVW_2019_paper.pdf)**   
   **Heeseung Kwon**, Woohyun Shim, Minsu Cho, In *ICCV Workshop 2019* (Challenge winner as the 2nd place of CoVieW 2019)  
-- **[Video Understanding via Convolutional Temporal Pooling Network and Multimodal Feature Fusion](https://dl.acm.org/doi/10.1145/3265987.3265991)**,  
+- **[Video Understanding via Convolutional Temporal Pooling Network and Multimodal Feature Fusion](https://dl.acm.org/doi/10.1145/3265987.3265991)**  
   **Heeseung Kwon**, Suha Kwak, Minsu Cho, In *MM Workshop 2019* (Challenge winner as the 1st place of CoVieW 2018)
-- **[First Person Action Recognition  via  Two-stream  ConvNet  with  Long-term  Fusion  Pooling](https://www.sciencedirect.com/science/article/pii/S0167865518303027)**,  
+- **[First Person Action Recognition  via  Two-stream  ConvNet  with  Long-term  Fusion  Pooling](https://www.sciencedirect.com/science/article/pii/S0167865518303027)**  
   **Heeseung Kwon**, Yeonho Kim, Jin S. Lee, Minsu Cho, In *PRL 2018*  
 
 ## Education
