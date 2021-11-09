@@ -3,7 +3,7 @@ Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](http
 My primary research interest is video understanding, especially video representation learning and its applications.
 
 ## Publication
- - **Relational Self-Attention: What's missing in Attention for Video Understanding**,  
+ - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)**,  
    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Chungyu Wang, Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *NeurIPS 2021* 
  - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)**,   
    Dahyun Kang, **Heeseung Kwon**, Juhong Min, Minsu Cho, In *ICCV 2021* 
