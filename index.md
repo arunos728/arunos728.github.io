@@ -4,7 +4,8 @@ My primary research interest is video understanding, especially video representa
 
 ## Publication
  - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)**,  
-   Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Chungyu Wang, Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *NeurIPS 2021* 
+   Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Chungyu Wang, Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *NeurIPS 2021*
+   &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93; 
  - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)**,   
    Dahyun Kang, **Heeseung Kwon**, Juhong Min, Minsu Cho, In *ICCV 2021* 
    &#91;[Project page](http://cvlab.postech.ac.kr/research/RENet/)&#93; &#91;[code](https://github.com/dahyun-kang/renet)&#93;   
