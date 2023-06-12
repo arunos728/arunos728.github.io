@@ -3,6 +3,8 @@ Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](http
 My primary research interest is video understanding, especially video representation learning and its applications.
 
 ## Publication
+ - **[Lightweight Structure-Aware Attention for Visual Undestanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
+   **Heeseung Kwon**, Francisco M. Castro, Manuel J. Marin-Jimenez, Nicolas Guil, Karteek Alahari, In *arXiv 2022*
  - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93;  
    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Chungyu Wang, Suha Kwak, Minsu Cho *(&#42; equal contribution)*, In *NeurIPS 2021*
  - **[Relational Embedding for Few-shot Classification](https://arxiv.org/abs/2108.09666)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RENet/)&#93; &#91;[code](https://github.com/dahyun-kang/renet)&#93;   
