@@ -1,10 +1,12 @@
 I am a Post-doctoral researcher in the [THOTH](https://team.inria.fr/thoth/) research team, based at the [Inria Grenoble-Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes) under the supervision of [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/).
 Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php), advised by prof. [Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/)
-My primary research interest is video understanding, especially video representation learning and its applications.
+My current research interest is Vision-Language-Action models, especially VLA model architectures for robot manipulations.
 
 ## Publication
+ - **[ContextVLA: Vision-Language-Action Model with Amortized Multi-frame Context](https://arxiv.org/pdf/2510.04246)** &#91;code&#93;  
+   Huiwon Jang, Sihyun Yu, **Heeseung Kwon**, Hojin Jeon, Younggyo Seo(&#42;), Jinwoo Shin(&#42;), In *ICLR 2026 (under review)* 
  - **[Exploring High-order Self-Similarity for Video Understanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
-    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Karteek Alahari, Minsu Cho *(&#42; equal contribution)*, In *ICCV 2025 (under review)*
+    Manjin Kim(&#42;), **Heeseung Kwon**, Karteek Alahari, Minsu Cho *(&#42; equal contribution)*, In *ICLR 2026 (under review)*
  - **[Lightweight Structure-Aware Attention for Visual Undestanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
    **Heeseung Kwon**, Francisco M. Castro, Manuel J. Marin-Jimenez, Nicolas Guil, Karteek Alahari, In *IJCV 2025*
  - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93;  
