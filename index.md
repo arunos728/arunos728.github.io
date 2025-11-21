@@ -1,5 +1,5 @@
-I am a Post-doctoral researcher in the [THOTH](https://team.inria.fr/thoth/) research team, based at the [Inria Grenoble-Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes) under the supervision of [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/).
-Before joining INRIA, I was a Ph.D student at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php), advised by prof. [Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/)
+I am a Post-doctoral researcher in the [KAIST ALIN Lab](https://alinlab.kaist.ac.kr/) under the supervision of [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html), while also working as a research intern at [RLWRLD](https://www.rlwrld.ai/).
+Before joining the team, I held a postdoctoral research position in [Inria Grenoble-Rhône-Alpes THOTH team](https://team.inria.fr/thoth/) advised by [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/), following the completion of my Ph.D at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php) under the supervision of prof. [Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/).
 My current research interest is Vision-Language-Action models, especially VLA model architectures for robot manipulations.
 
 ## Publication
