@@ -4,7 +4,7 @@ My current research interest is Vision-Language-Action models, especially VLA mo
 
 ## Publication
  - **[Exploring Multi-order Self-Similarity for Motion Understanding](https://arxiv.org/abs/2604.20760)** &#91;code&#93;  
-    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Karteek Alahari, Minsu Cho, , *(&#42; equal contribution)* In *NeurIPS 2026 (under review)*
+    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Karteek Alahari, Minsu Cho, *(&#42; equal contribution)* In *NeurIPS 2026 (under review)*
  - **[ContextVLA: Vision-Language-Action Model with Amortized Multi-frame Context](https://arxiv.org/pdf/2510.04246)** &#91;code&#93;  
    Huiwon Jang, Sihyun Yu, **Heeseung Kwon**, Hojin Jeon, Younggyo Seo(&#42;), Jinwoo Shin(&#42;), *(&#42; equal contribution)* In *arXiv 2025* 
  - **[Lightweight Structure-Aware Attention for Visual Undestanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
