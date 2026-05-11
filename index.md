@@ -1,12 +1,12 @@
-I am a Post-doctoral researcher in the [KAIST ALIN Lab](https://alinlab.kaist.ac.kr/) under the supervision of [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html), while also working as a research intern at [RLWRLD](https://www.rlwrld.ai/).
+I am a Research engineer at [RLWRLD](https://www.rlwrld.ai/).
 Before joining the team, I held a postdoctoral research position in [Inria Grenoble-Rhône-Alpes THOTH team](https://team.inria.fr/thoth/) advised by [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/), following the completion of my Ph.D at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php) under the supervision of prof. [Minsu Cho.](http://cvlab.postech.ac.kr/~mcho/).
 My current research interest is Vision-Language-Action models, especially VLA model architectures for robot manipulations.
 
 ## Publication
+ - **[Exploring Multi-order Self-Similarity for Motion Understanding](https://arxiv.org/abs/2604.20760)** &#91;code&#93;  
+    Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Karteek Alahari, Minsu Cho, , *(&#42; equal contribution)* In *NeurIPS 2026 (under review)*
  - **[ContextVLA: Vision-Language-Action Model with Amortized Multi-frame Context](https://arxiv.org/pdf/2510.04246)** &#91;code&#93;  
-   Huiwon Jang, Sihyun Yu, **Heeseung Kwon**, Hojin Jeon, Younggyo Seo(&#42;), Jinwoo Shin(&#42;), *(&#42; equal contribution)* In *ICLR 2026 (under review)* 
- - **[Exploring High-order Self-Similarity for Video Understanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
-    Manjin Kim, **Heeseung Kwon**, Karteek Alahari, Minsu Cho, In *ICLR 2026 (under review)*
+   Huiwon Jang, Sihyun Yu, **Heeseung Kwon**, Hojin Jeon, Younggyo Seo(&#42;), Jinwoo Shin(&#42;), *(&#42; equal contribution)* In *arXiv 2025* 
  - **[Lightweight Structure-Aware Attention for Visual Undestanding](https://arxiv.org/abs/2211.16289)** &#91;code&#93;  
    **Heeseung Kwon**, Francisco M. Castro, Manuel J. Marin-Jimenez, Nicolas Guil, Karteek Alahari, In *IJCV 2025*
  - **[Relational Self-Attention: What's missing in Attention for Video Understanding](https://arxiv.org/abs/2111.01673)** &#91;[Project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;code&#93;  
