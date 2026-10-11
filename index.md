@@ -1,6 +1,6 @@
 I am a Research engineer at [RLWRLD](https://www.rlwrld.ai/).
 Before joining the team, I held a postdoctoral research position in [Inria Grenoble-Rhône-Alpes THOTH team](https://team.inria.fr/thoth/) advised by [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/), following the completion of my Ph.D at [POSTECH computer vision lab](https://cvlab.postech.ac.kr/lab/index.php) under the supervision of prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
-My current research interest is Vision-Language-Action models, especially VLA model architectures for robot manipulations.
+My current research interest is low-level policies for robotic manipulation, especially World Action Models (WAM) and Vision-Language Action (VLA) models.
 
 ## Publication
  - **[PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/pdf/2610.02840)** &#91;code&#93;  
