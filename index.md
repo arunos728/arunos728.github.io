@@ -3,11 +3,11 @@ Before joining the team, I held a postdoctoral research position in [Inria Greno
 My current research interest is low-level policies for robotic manipulation, especially World Action Models (WAM) and Vision-Language Action (VLA) models.
 
 ## Publication
- - **[PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/pdf/2610.02840)** &#91;code&#93;  
+ - **[PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/pdf/2610.02840)** &#91;[Project page](https://chrockey.github.io/PointWAM/)&#93; &#91;code&#93; 
     Chunghyun Park(&#42;), Beomjun Kim(&#42;) Seungcheol Park(&#8224;) **Heeseung Kwon(&#8224;)**, Yashu Shukla, Seunghoon Sim, Jinwoo Shin, Minsu Cho, *(&#42; co-first authors, &#8224; equal contribution)* In *ICLR 2026 (under review)*
  - **[Exploring Multi-order Self-Similarity for Motion Understanding](https://arxiv.org/abs/2604.20760)** &#91;code&#93;  
     Manjin Kim(&#42;), **Heeseung Kwon(&#42;)**, Karteek Alahari, Minsu Cho, *(&#42; equal contribution)* In *NeurIPS 2026*
- - **[RLDX-1 Technical Report](https://arxiv.org/pdf/2605.03269)** &#91;[code](https://github.com/RLWRLD/RLDX-1)&#93;  
+ - **[RLDX-1 Technical Report](https://arxiv.org/pdf/2605.03269)** &#91;[Project page](https://www.rlwrld.ai/ko/rldx-1)&#93; &#91;[code](https://github.com/RLWRLD/RLDX-1)&#93;  
     Dongyoung Kim(&#8224;&#167;), Huiwon Jang(&#8224;&#167;), Myungkyu Koo(&#8224;), Suhyeok Jang(&#8224;), Taeyoung Kim(&#8224;), Beomjun Kim, Byungjun Yoon, Changsung Jang, Daewon Choi, Dongsu Han, Donguk Lee, **Heeseung Kwon**,
    Hojin Jeon, Jaehyun Kang, Jaekyoung Bae, Jihyuk Lee, Jimin Lee, John Won, Joonwoo Ahn, Junhyeong Park, Junyoung Sung, Kyungmin Lee, Minseong Han, Minsung Yoon, Sejune Joo,
    Seonil Son, Seungcheol Park, Seunggeun Cho, Seungjun Moon, Seungku Kim, Yonghoon Dong, Yongjin Cho, Youngchan Kim, Jinwoo Shin(&#167;), *(&#8224; project leads, &#167; research leads) *In *arXiv 2026*
